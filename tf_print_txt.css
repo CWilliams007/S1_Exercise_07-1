@@ -4,8 +4,9 @@
    Tutorial 5
    Tutorial Case
    
-   Author:   
-   Date:     
+   Author: Chad Williams 
+   Date:   11.14.18
+        
    
    Filename: tf_print.css
 
@@ -26,13 +27,13 @@
 
 /* Header Styles */
 
-body > header {
-   text-align: right;
+body>header {
+    text-align: right;
 }
 
-body > header > img {
-   display: block;
-   width: 100%;
+body>header>img {
+    display: block;
+    width: 100%;
 }
 
 
@@ -56,13 +57,3 @@ body > header > img {
 
 
 /* Page Break Styles */
-
-
-
-
-	
-
-
-
-
-
